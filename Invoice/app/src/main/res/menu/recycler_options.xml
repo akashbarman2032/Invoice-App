@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edit_customer"
+        android:title="Edit Customer"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/generate_invoice"
+        android:title="Generate Invoice"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/delete_customer"
+        android:title="Delete Customer"
+        app:showAsAction="never"/>
+
+</menu>

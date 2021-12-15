@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Invoice</string>
+    <string name="gstno">GSTIN2020BX869123Z5</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Admin Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_admin">Register Admin</string>
+    <string name="generate_invoice">Generate Invoice</string>
+    <string name="services">Service Offered</string>
+    <string name="cgst">CGST</string>
+    <string name="sgst">SGST</string>
+    <string name="taxes_applicable">Taxes Applicable</string>
+    <string name="tax_rates">Tax Rates</string>
+    <string name="overview">Overview</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="address">Address</string>
+    <string name="add_service">Add Service</string>
+    <string name="services_availed">Services Availed</string>
+    <string name="create_customer">Create Customer</string>
+    <string name="country">Country</string>
+    <string name="available_services">Available Services</string>
+    <string name="remove_service">Remove Service</string>
+
+    <string-array name="countries">
+<!--        Add All Countries       -->
+        <item>India</item>
+        <item>Australia</item>
+        <item>Hungary</item>
+        <item>Bulgaria</item>
+        <item>Netherlands</item>
+        <item>Romania</item>
+    </string-array>
+
+    <string-array name="serviceList">
+<!--        Add All Services       -->
+        <item>Cloud Storage</item>
+        <item>Object Detection API</item>
+        <item>Text To Speech API</item>
+        <item>Text Recognition API</item>
+        <item>Antivirus</item>
+        <item>SQL Server</item>
+    </string-array>
+    <string-array name="rates">
+<!--        Add Corresponding Rates     -->
+        <item>1299</item>
+        <item>899</item>
+        <item>699</item>
+        <item>799</item>
+        <item>499</item>
+        <item>499</item>
+    </string-array>
+</resources>
